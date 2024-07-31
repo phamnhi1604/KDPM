@@ -1,0 +1,14 @@
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\UnitTest\bin\Debug\UnitTest.dll
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\UnitTest\bin\Debug\UnitTest.pdb
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\UnitTest\bin\Debug\CodeTest.exe
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\UnitTest\bin\Debug\CodeTest.pdb
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\UnitTest\obj\Debug\UnitTest.dll
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\UnitTest\obj\Debug\UnitTest.pdb
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\UnitTest\bin\Debug\UnitTest.dll
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\UnitTest\bin\Debug\UnitTest.pdb
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\UnitTest\bin\Debug\CodeTest.exe
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\UnitTest\bin\Debug\CodeTest.pdb
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\UnitTest\obj\Debug\UnitTest.dll
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\UnitTest\obj\Debug\UnitTest.pdb

@@ -1,0 +1,10 @@
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\CodeTest\bin\Debug\CodeTest.exe.config
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\CodeTest\bin\Debug\CodeTest.exe
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\CodeTest\bin\Debug\CodeTest.pdb
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\CodeTest\obj\Debug\CodeTest.exe
+E:\LuuDuLieuSinhVien\PhamYenNhi\Buoi3\CodeTest\obj\Debug\CodeTest.pdb
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\bin\Debug\CodeTest.exe.config
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\obj\Debug\CodeTest.exe
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\obj\Debug\CodeTest.pdb
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\bin\Debug\CodeTest.exe
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\bin\Debug\CodeTest.pdb
