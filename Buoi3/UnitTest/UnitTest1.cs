@@ -62,8 +62,25 @@ namespace UnitTest
         public void TC2_tinhTienDien()
         {
             TienDien td = new TienDien();
-            double rs_Actual = td.TinhTienDien(55);
-            double rs_Expect = 110000;
+            double rs_Actual = td.TinhTienDien(500);
+            double rs_Expect = 1321870;
+            Assert.AreEqual(rs_Expect, rs_Actual);
+        }
+
+        [TestMethod]
+        public void TC1_AmLich()
+        {
+            AmLich a = new AmLich();
+            string rs_Actual = a.QuyUocAmLich(2020);
+            string rs_Expect = "Canh Tý";
+            Assert.AreEqual(rs_Expect, rs_Actual);
+        }
+        [TestMethod]
+        public void TC2_AmLich()
+        {
+            AmLich a = new AmLich();
+            string rs_Actual = a.QuyUocAmLich(2020);
+            string rs_Expect = "Tân Sửu";
             Assert.AreEqual(rs_Expect, rs_Actual);
         }
     }

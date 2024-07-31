@@ -8,3 +8,4 @@ E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\obj\Debug\CodeTest.exe
 E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\obj\Debug\CodeTest.pdb
 E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\bin\Debug\CodeTest.exe
 E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\bin\Debug\CodeTest.pdb
+E:\LuuDuLieuSinhVien\PhamYenNhi\KDPM\Buoi3\CodeTest\obj\Debug\CodeTest.csprojResolveAssemblyReference.cache

@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AmLich.cs" />
+    <Compile Include="ktTamGiac.cs" />
+    <Compile Include="LoaiHS.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TienDien.cs" />

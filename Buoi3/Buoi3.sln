@@ -10,17 +10,33 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
 		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Debug|Win32.ActiveCfg = Debug|Any CPU
 		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5D4231D5-31AC-49D8-8B28-530E7D1964D5}.Release|Win32.ActiveCfg = Release|Any CPU
 		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Debug|Win32.ActiveCfg = Debug|Any CPU
 		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7D7830E5-21F5-442C-850D-7D2A11EAB581}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
